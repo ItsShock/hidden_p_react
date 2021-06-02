@@ -4,5 +4,6 @@
     "statusBar.foreground": "#656263",
     "activityBar.background": "#1969b0",
     "activityBar.foreground": "#ffffff"
-  }
+  },
+  "git.ignoreLimitWarning": true
 }
